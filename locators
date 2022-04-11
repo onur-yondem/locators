@@ -1,0 +1,52 @@
+1. )  Enable UTM Parameters (https://inshoppingcart.inone.useinsider.com/newsletter/189447/design)
+$$("#enableUTMSettings_")[0]
+
+******************************
+
+2.) https://inshoppingcart.inone.useinsider.com/journey-builder/29156/canvas/16/sms?isOnEditMode=false
+
+ $$(".qa-error-message")[0]
+
+*******************************
+
+3.) https://inshoppingcart.inone.useinsider.com/journey-builder
+ 
+$$("#search-value")[0]
+
+******************************
+
+4.) https://inshoppingcart.inone.useinsider.com/info/189494/launch 
+
+$$("#Test")[0]
+
+******************************
+
+5.) https://inshoppingcart.inone.useinsider.com/journey-builder
+
+$$("[data-information='See Analytics'] > a")[5]
+
+******************************
+
+6.) https://inshoppingcart.inone.useinsider.com/info/189671/design
+
+$$("#delete")[0]
+
+*****************************
+
+7.) https://inshoppingcart.inone.useinsider.com/journey-builder/29164/canvas
+
+$$("#qa-element")[0]
+
+******************************
+
+8.) https://inshoppingcart.inone.useinsider.com/journey-builder/29156/canvas/16/sms?isOnEditMode=false
+
+$$(".qa-toasts")[0]
+
+
+******************************
+
+9.) https://inshoppingcart.inone.useinsider.com/social-proof
+
+$$("#create-mobile-campaign")[0]
+
