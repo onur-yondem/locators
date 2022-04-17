@@ -23,7 +23,7 @@ $$("#Test")[0]
 
 5.) https://inshoppingcart.inone.useinsider.com/journey-builder
 
-$$("[data-information='See Analytics'] > a")[5]
+$$(".statistics a")[1].click()
 
 ******************************
 
